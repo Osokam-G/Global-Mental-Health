@@ -10,11 +10,17 @@ The dashboard displays **231 countries** and includes cards for average depressi
 
 ## Dashboard Preview
 
+<img width="1348" height="747" alt="global mental health dashboard pic" src="https://github.com/user-attachments/assets/2566450c-33d7-4eda-b34c-b76670052dad" />
+
+
+
 
 
 - **Project type:** Exploratory data analysis and visualization
 - **Tools:** Microsoft Excel, Google Colab, Power BI
-- **Dataset source:** Quantum Analytics
+- **Dataset source:** ## Data Source
+
+Dataset provided to me by Quantum Analytics and attributed by them to Amit. I have not independently verified the original publication.
 
 ## Project Objectives
 
@@ -34,7 +40,9 @@ The objectives of this project are to:
 ## Dataset
 
 - **Dataset name:** Global Mental Health Dataset
-- **Source:** Quantum Analystics
+- **Source:** ## Data Source
+
+Dataset provided to me by Quantum Analytics and attributed by them to Amit. I have not independently verified the original publication.
 
 ## Tools and Workflow
 
