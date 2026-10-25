@@ -83,10 +83,10 @@ The summary cards display the following values:
 
 | Measure | Value shown |
 |---|---:|
-| Average depression measure | 3.50 |
-| Average anxiety disorder measure | 3.99 |
-| Average male measure | 2.80 |
-| Average female measure | 4.12 |
+| Average depression measure | 3.50% |
+| Average anxiety disorder measure | 3.99% |
+| Average male measure | 2.80% |
+| Average female measure | 4.12% |
 
 In the disorder comparison chart, anxiety disorders have the highest displayed average, followed by depression. The other categories shown—alcohol use disorders, drug use disorders, bipolar disorder, eating disorders, and schizophrenia—have lower displayed averages.
 
