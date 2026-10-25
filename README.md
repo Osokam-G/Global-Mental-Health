@@ -8,6 +8,10 @@ This project explores the mental health measures in a global dataset. The Power 
 
 The dashboard displays **231 countries** and includes cards for average depression, anxiety, male, and female measures. It also contains country comparison charts, a disorder category comparison chart, an anxiety trend over time, and a country filter.
 
+## Dashboard Preview
+
+
+
 - **Project type:** Exploratory data analysis and visualization
 - **Tools:** Microsoft Excel, Google Colab, Power BI
 - **Dataset source:** Quantum Analytics
