@@ -18,8 +18,7 @@ The dashboard displays **231 countries** and includes cards for average depressi
 
 - **Project type:** Exploratory data analysis and visualization
 - **Tools:** Microsoft Excel, Google Colab, Power BI
-- **Dataset source:** ## Data Source
-
+- **Dataset source:**
 Dataset provided to me by Quantum Analytics and attributed by them to Amit. I have not independently verified the original publication.
 
 ## Project Objectives
@@ -39,7 +38,7 @@ The objectives of this project are to:
 
 ## Dataset
 
-- **Dataset name:** Global Mental Health Dataset
+- **Dataset name:** Mental health depression disorder data excel_cleaned
 - **Source:** ## Data Source
 
 Dataset provided to me by Quantum Analytics and attributed by them to Amit. I have not independently verified the original publication.
